@@ -1,5 +1,5 @@
 {
-  "name": "e-cattle_register_device",
+  "name": "mfe-remote-credential-vue",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite --port 5005 --strictPort",
